@@ -1,0 +1,32 @@
+Execution time using OpenMP and 1 threads for area = 1.0215e+18
+61.157 seconds
+Execution time using OpenMP and 2 threads for area = 1.0215e+18
+33.029 seconds
+Execution time using OpenMP and 3 threads for area = 1.0215e+18
+21.9535 seconds
+Execution time using OpenMP and 4 threads for area = 1.0215e+18
+16.7138 seconds
+Execution time using OpenMP and 5 threads for area = 1.0215e+18
+13.8685 seconds
+Execution time using OpenMP and 6 threads for area = 1.0215e+18
+11.6599 seconds
+Execution time using OpenMP and 7 threads for area = 1.0215e+18
+12.372 seconds
+Execution time using OpenMP and 8 threads for area = 1.0215e+18
+11.1335 seconds
+Execution time using OpenMP and 9 threads for area = 1.0215e+18
+10.1574 seconds
+Execution time using OpenMP and 10 threads for area = 1.0215e+18
+9.56415 seconds
+Execution time using OpenMP and 11 threads for area = 1.0215e+18
+8.94124 seconds
+Execution time using OpenMP and 12 threads for area = 1.0215e+18
+8.47649 seconds
+Execution time using OpenMP and 13 threads for area = 1.0215e+18
+8.43773 seconds
+Execution time using OpenMP and 14 threads for area = 1.0215e+18
+8.24942 seconds
+Execution time using OpenMP and 15 threads for area = 1.0215e+18
+8.38345 seconds
+Execution time using OpenMP and 16 threads for area = 1.0215e+18
+8.40697 seconds

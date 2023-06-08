@@ -1,0 +1,14 @@
+Result:
+Philosopher 0 eating count 5
+Philosopher 1 eating count 5
+Philosopher 2 eating count 7
+Philosopher 3 eating count 3
+Philosopher 4 eating count 4
+Philosopher 5 eating count 5
+Philosopher 6 eating count 6
+Philosopher 7 eating count 4
+Philosopher 8 eating count 4
+Philosopher 9 eating count 5
+Philosopher 10 eating count 6
+Philosopher 11 eating count 3
+Philosopher 12 eating count 6
